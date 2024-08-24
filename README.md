@@ -6,3 +6,5 @@ Key Features:
     Length restrictions
     Custom validation rules
 - Error Handling: Displays appropriate error messages to the user when validation fails.
+- Password Encryption:
+   Passwords are stored as hashed values using a strong hashing algorithm (e.g., bcrypt) to prevent unauthorized access.
